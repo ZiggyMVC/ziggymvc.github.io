@@ -1,0 +1,27 @@
+title: Ziggy MVC
+description: A lightweight, convention-over-configuration MVC framework for CFML
+baseurl: ""
+url: "https://ziggymvc.github.io"
+repository: ZiggyMVC/ziggymvc.github.io
+
+# Build settings
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Navigation
+nav:
+  - title: Home
+    url: /
+  - title: Documentation
+    url: /documentation/
+  - title: GitHub
+    url: https://github.com/ZiggyMVC/ZiggyMVC
