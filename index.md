@@ -30,7 +30,7 @@ Ziggy MVC version 5.0.0 is a community-driven fork of Framework-1 (FW/1), create
 
 **Via CommandBox:**
 ```bash
-box install ziggymvc
+box install ziggy-mvc
 ```
 
 **Via GitHub:**
