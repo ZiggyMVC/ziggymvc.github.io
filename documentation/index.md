@@ -26,7 +26,7 @@ Ziggy MVC supports the following CFML engines:
 
 ## Installation
 
-### Via CommandBox (Recommended)
+<!-- ### Via CommandBox (Recommended)
 
 ```bash
 box install ziggymvc
@@ -36,7 +36,7 @@ For the latest development version:
 
 ```bash
 box install ziggymvc@be
-```
+``` -->
 
 ### Via GitHub
 
